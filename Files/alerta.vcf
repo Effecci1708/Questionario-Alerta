@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Alerta;;;;
+FN:Alerta Security
+ORG:S.I.A. SRLS
+TITLE:Sistemi di allarme e sicurezza
+TEL;TYPE=CELL,WORK,VOICE:+393514350944
+EMAIL;TYPE=INTERNET,WORK:info@alertasecurity.it
+URL:https://alertasecurity.it
+ADR;TYPE=WORK:;;Strada Provinciale Valtesino 291;Grottammare;AP;63066;Italia
+NOTE:WhatsApp +39 351 4350944
+END:VCARD
