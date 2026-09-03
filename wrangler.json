@@ -1,8 +1,10 @@
 {
-  "name": "alerta-sicurezza-protezione",
+  "name": "questionario-alerta",
   "compatibility_date": "2026-09-03",
+  "workers_dev": true,
+  "preview_urls": false,
   "assets": {
-    "directory": "./",
+    "directory": "./public",
     "not_found_handling": "single-page-application"
   }
 }
